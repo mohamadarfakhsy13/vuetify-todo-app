@@ -33,7 +33,7 @@
 
             <v-list-item-content>
               <v-list-item-title
-                class=" { text-decoration-line-through = task.done }"
+                :class="{ 'text-decoration-line-through' : task.done }"
               >
                 {{ task.title }}
               </v-list-item-title>
