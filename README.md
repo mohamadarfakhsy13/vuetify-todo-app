@@ -25,8 +25,24 @@ npm run serve
 npm run build
 ```
 
+### Features availibility
+1. Add todo notes
+2. Checklist box
+3. Delete button
+4. Clear text on add todo field
+5. About page
+
+### Work in progress Features
+1. No task / task complete info
+2. snackbars
+3. Pop up dialog for edit/delete button
+4. Real-time date and time for todo notes
+
 ### Demo
-![Screenshot](pictures/Android-ODT.png)
+![Screenshot](pictures/Web-about.png)
+![Screenshot](pictures/Web-Todo.png)
+![Screenshot](pictures/Mobile-Todo.png)
+![Screenshot](pictures/Mobile-sidebar.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
