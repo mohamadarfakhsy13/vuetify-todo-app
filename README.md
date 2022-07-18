@@ -1,7 +1,7 @@
 # vuetify-todo-app
 
 ## Introduction
-This repo is for example on implementation of Vue CLI as framework. This project also using Vuetify as material design on interface.
+This repo is for example on implementation of Vue CLI as framework. This project also using Vuetify as material design on interface. This project support on cross platform based which is mobile and website.
 
 ## Pre-requisites
 1. Git client: https://git-scm.com/download/win
