@@ -25,7 +25,7 @@ npm run serve
 npm run build
 ```
 
-### Features availibility
+### Features availability
 1. Add todo notes
 2. Checklist box
 3. Delete button
